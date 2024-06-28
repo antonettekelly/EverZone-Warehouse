@@ -4,4 +4,4 @@ EverZone Warehouse is part of a retail and technology-based multinational compan
 
 Performed data preparation and exploratory data analysis on a warehouse service data set, using PowerBI for descriptive analytics and SAS for predictive analytics and prescriptive analytics in the form of reporting and KPI.
 
-EverZone Warehouse PDF Report is provided in the Indonesian language.
+EverZone Warehouse PDF Report is provided in Indonesian language.
